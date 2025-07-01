@@ -1,0 +1,24 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding-block: 2rem;
+  line-height: 0;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  gap: 2.4rem;
+
+  list-style: none;
+}
+
+/* nav ul li a .magnifying-glass {
+  fill: var(--brand-color);
+} */
+
+#profile {
+  width: 4rem;
+}
