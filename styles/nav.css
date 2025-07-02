@@ -15,10 +15,6 @@ nav ul {
   list-style: none;
 }
 
-/* nav ul li a .magnifying-glass {
-  fill: var(--brand-color);
-} */
-
-#profile {
+#profile-img {
   width: 4rem;
 }
